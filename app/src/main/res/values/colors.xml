@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gh_bg">#0D1117</color>
+    <color name="gh_canvas_subtle">#161B22</color>
+    <color name="gh_header_bg">#010409</color>
+    <color name="gh_border">#30363D</color>
+    <color name="gh_border_muted">#21262D</color>
+    <color name="gh_text_primary">#F0F6FC</color>
+    <color name="gh_text_secondary">#8B949E</color>
+    <color name="gh_text_muted">#6E7681</color>
+    <color name="gh_green_primary">#238636</color>
+    <color name="gh_green_hover">#2EA043</color>
+    <color name="gh_blue_accent">#58A6FF</color>
+    <color name="gh_purple_accent">#8957E5</color>
+    <color name="gh_purple_badge_bg">#211B34</color>
+    <color name="gh_badge_bg">#21262D</color>
+    <color name="gh_input_bg">#010409</color>
+    <color name="gh_input_border">#30363D</color>
+    <color name="gh_input_border_focus">#1F6FEB</color>
+</resources>
